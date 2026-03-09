@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13054","Увеличение счетчика корзины при добавлении товара","tests","2026-03-09","passed","2026-03-09","TestCart","test_backet","",""
+"","3255","Добавление товара в корзину и наличие его в корзине","tests","2026-03-09","passed","2026-03-09","TestCart","test_backet","",""
